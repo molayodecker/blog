@@ -1,0 +1,2 @@
+# blog
+Keep things boring
